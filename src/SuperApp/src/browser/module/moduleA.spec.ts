@@ -1,5 +1,4 @@
 import { ModuleA } from './moduleA';
-// call ./node_modules/@tradeshift/v4/bin/v4.js test
 
 describe('Cover moduleA, some simple tests', () => {
 	let g: ModuleA;

@@ -1,6 +1,5 @@
 import * as unexpectedWrapper from 'unexpected';
 import * as unexpectedExpress from 'unexpected-express';
-import { wrapRouter } from '@tradeshift/v4';
 import routes from './routes';
 
 const mock = unexpectedWrapper.clone().installPlugin(unexpectedExpress);
