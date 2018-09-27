@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test my new component lets render it and check! 1`] = `
+<div>
+  hi!!
+  fella!
+</div>
+`;
+
+exports[`test my new component paste random screenshot 1`] = `"{\\"name\\":\\"good guy!\\"}"`;
